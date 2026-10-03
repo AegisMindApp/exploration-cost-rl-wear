@@ -1,0 +1,911 @@
+{
+ "runs": [
+  {
+   "eps": 0.0,
+   "seed": 2000,
+   "mean_wear_per_step": 0.18192003856284672,
+   "total_wear": 26.19648555304993,
+   "reward": 1204.028428705746,
+   "steps": 144,
+   "hit_target": true
+  },
+  {
+   "eps": 0.0,
+   "seed": 2001,
+   "mean_wear_per_step": 0.25476698388889896,
+   "total_wear": 36.68644568000145,
+   "reward": 1201.0041508078025,
+   "steps": 144,
+   "hit_target": true
+  },
+  {
+   "eps": 0.0,
+   "seed": 2002,
+   "mean_wear_per_step": 0.1866709263015023,
+   "total_wear": 26.880613387416332,
+   "reward": 1203.8311931906624,
+   "steps": 144,
+   "hit_target": true
+  },
+  {
+   "eps": 0.0,
+   "seed": 2003,
+   "mean_wear_per_step": 0.2537112310580866,
+   "total_wear": 36.534417272364465,
+   "reward": 1201.0479809222657,
+   "steps": 144,
+   "hit_target": true
+  },
+  {
+   "eps": 0.0,
+   "seed": 2004,
+   "mean_wear_per_step": 0.25476698388889896,
+   "total_wear": 36.68644568000145,
+   "reward": 1201.0041508078025,
+   "steps": 144,
+   "hit_target": true
+  },
+  {
+   "eps": 0.0,
+   "seed": 2005,
+   "mean_wear_per_step": 0.25423910747349276,
+   "total_wear": 36.61043147618296,
+   "reward": 1201.026065865034,
+   "steps": 144,
+   "hit_target": true
+  },
+  {
+   "eps": 0.0,
+   "seed": 2006,
+   "mean_wear_per_step": 0.2542391074734927,
+   "total_wear": 36.61043147618295,
+   "reward": 1201.026065865034,
+   "steps": 144,
+   "hit_target": true
+  },
+  {
+   "eps": 0.0,
+   "seed": 2007,
+   "mean_wear_per_step": 0.2542391074734927,
+   "total_wear": 36.61043147618295,
+   "reward": 1201.026065865034,
+   "steps": 144,
+   "hit_target": true
+  },
+  {
+   "eps": 0.0,
+   "seed": 2008,
+   "mean_wear_per_step": 0.2537112310580866,
+   "total_wear": 36.534417272364465,
+   "reward": 1201.0479809222657,
+   "steps": 144,
+   "hit_target": true
+  },
+  {
+   "eps": 0.0,
+   "seed": 2009,
+   "mean_wear_per_step": 0.25476698388889896,
+   "total_wear": 36.68644568000145,
+   "reward": 1201.0041508078025,
+   "steps": 144,
+   "hit_target": true
+  },
+  {
+   "eps": 0.0,
+   "seed": 2010,
+   "mean_wear_per_step": 0.25476698388889896,
+   "total_wear": 36.68644568000145,
+   "reward": 1201.0041508078025,
+   "steps": 144,
+   "hit_target": true
+  },
+  {
+   "eps": 0.0,
+   "seed": 2011,
+   "mean_wear_per_step": 0.18192003856284672,
+   "total_wear": 26.19648555304993,
+   "reward": 1204.028428705746,
+   "steps": 144,
+   "hit_target": true
+  },
+  {
+   "eps": 0.05,
+   "seed": 2000,
+   "mean_wear_per_step": 0.19544607510909295,
+   "total_wear": 28.730573041036664,
+   "reward": 1203.2475764963626,
+   "steps": 147,
+   "hit_target": true
+  },
+  {
+   "eps": 0.05,
+   "seed": 2001,
+   "mean_wear_per_step": 0.255136442148374,
+   "total_wear": 37.505056995810975,
+   "reward": 1203.5058221564161,
+   "steps": 147,
+   "hit_target": true
+  },
+  {
+   "eps": 0.05,
+   "seed": 2002,
+   "mean_wear_per_step": 0.21367624641673078,
+   "total_wear": 31.196731976842692,
+   "reward": 1205.0376914419687,
+   "steps": 146,
+   "hit_target": true
+  },
+  {
+   "eps": 0.05,
+   "seed": 2003,
+   "mean_wear_per_step": 0.2553678054444825,
+   "total_wear": 37.028331789449965,
+   "reward": 1203.8989506502753,
+   "steps": 145,
+   "hit_target": true
+  },
+  {
+   "eps": 0.05,
+   "seed": 2004,
+   "mean_wear_per_step": 0.26231921343197284,
+   "total_wear": 38.560924374500004,
+   "reward": 1204.5234551812473,
+   "steps": 147,
+   "hit_target": true
+  },
+  {
+   "eps": 0.05,
+   "seed": 2005,
+   "mean_wear_per_step": 0.2576647458043566,
+   "total_wear": 37.36138814163171,
+   "reward": 1202.41843958345,
+   "steps": 145,
+   "hit_target": true
+  },
+  {
+   "eps": 0.05,
+   "seed": 2006,
+   "mean_wear_per_step": 0.2634987114278531,
+   "total_wear": 38.997809291322255,
+   "reward": 1205.7473744343733,
+   "steps": 148,
+   "hit_target": true
+  },
+  {
+   "eps": 0.05,
+   "seed": 2007,
+   "mean_wear_per_step": 0.2576647458043566,
+   "total_wear": 37.36138814163171,
+   "reward": 1202.41843958345,
+   "steps": 145,
+   "hit_target": true
+  },
+  {
+   "eps": 0.05,
+   "seed": 2008,
+   "mean_wear_per_step": 0.25739884681554787,
+   "total_wear": 37.83763048188554,
+   "reward": 1205.405662459056,
+   "steps": 147,
+   "hit_target": true
+  },
+  {
+   "eps": 0.05,
+   "seed": 2009,
+   "mean_wear_per_step": 0.24846751493994038,
+   "total_wear": 36.52472469617123,
+   "reward": 1208.194576032066,
+   "steps": 147,
+   "hit_target": true
+  },
+  {
+   "eps": 0.05,
+   "seed": 2010,
+   "mean_wear_per_step": 0.239857013533744,
+   "total_wear": 35.49883800299411,
+   "reward": 1208.1034955352404,
+   "steps": 148,
+   "hit_target": true
+  },
+  {
+   "eps": 0.05,
+   "seed": 2011,
+   "mean_wear_per_step": 0.19906859655675627,
+   "total_wear": 29.661220886956684,
+   "reward": 1206.87070109654,
+   "steps": 149,
+   "hit_target": true
+  },
+  {
+   "eps": 0.1,
+   "seed": 2000,
+   "mean_wear_per_step": 0.2041694210601571,
+   "total_wear": 30.82958258008372,
+   "reward": 1203.0818967964574,
+   "steps": 151,
+   "hit_target": true
+  },
+  {
+   "eps": 0.1,
+   "seed": 2001,
+   "mean_wear_per_step": 0.26006663206943104,
+   "total_wear": 38.74992817834522,
+   "reward": 1207.749165602842,
+   "steps": 149,
+   "hit_target": true
+  },
+  {
+   "eps": 0.1,
+   "seed": 2002,
+   "mean_wear_per_step": 0.2591000278664881,
+   "total_wear": 39.12410420783971,
+   "reward": 1201.1360259201447,
+   "steps": 151,
+   "hit_target": true
+  },
+  {
+   "eps": 0.1,
+   "seed": 2003,
+   "mean_wear_per_step": 0.26751088607521467,
+   "total_wear": 39.859122025206986,
+   "reward": 1204.3263348156952,
+   "steps": 149,
+   "hit_target": true
+  },
+  {
+   "eps": 0.1,
+   "seed": 2004,
+   "mean_wear_per_step": 0.26869815834615124,
+   "total_wear": 40.573421910268834,
+   "reward": 1207.5039272138229,
+   "steps": 151,
+   "hit_target": true
+  },
+  {
+   "eps": 0.1,
+   "seed": 2005,
+   "mean_wear_per_step": 0.2645259303983732,
+   "total_wear": 39.14983769895923,
+   "reward": 1205.7035443199102,
+   "steps": 148,
+   "hit_target": true
+  },
+  {
+   "eps": 0.1,
+   "seed": 2006,
+   "mean_wear_per_step": 0.2654163354097836,
+   "total_wear": 39.81245031146754,
+   "reward": 1205.855438801191,
+   "steps": 150,
+   "hit_target": true
+  },
+  {
+   "eps": 0.1,
+   "seed": 2007,
+   "mean_wear_per_step": 0.2714186404553366,
+   "total_wear": 41.5270519896665,
+   "reward": 1207.3626657457041,
+   "steps": 153,
+   "hit_target": true
+  },
+  {
+   "eps": 0.1,
+   "seed": 2008,
+   "mean_wear_per_step": 0.2607076515355139,
+   "total_wear": 38.58473242725606,
+   "reward": 1200.278757509652,
+   "steps": 148,
+   "hit_target": true
+  },
+  {
+   "eps": 0.1,
+   "seed": 2009,
+   "mean_wear_per_step": 0.26636205768767834,
+   "total_wear": 40.22067071083943,
+   "reward": 1206.9880437300399,
+   "steps": 151,
+   "hit_target": true
+  },
+  {
+   "eps": 0.1,
+   "seed": 2010,
+   "mean_wear_per_step": 0.25791381759890225,
+   "total_wear": 38.687072639835336,
+   "reward": 1206.1988552827684,
+   "steps": 150,
+   "hit_target": true
+  },
+  {
+   "eps": 0.1,
+   "seed": 2011,
+   "mean_wear_per_step": 0.22506005135420976,
+   "total_wear": 33.533947651777254,
+   "reward": 1207.8684537139125,
+   "steps": 149,
+   "hit_target": true
+  },
+  {
+   "eps": 0.2,
+   "seed": 2000,
+   "mean_wear_per_step": 0.2256184433833191,
+   "total_wear": 35.19647716779778,
+   "reward": 1207.753024394505,
+   "steps": 156,
+   "hit_target": true
+  },
+  {
+   "eps": 0.2,
+   "seed": 2001,
+   "mean_wear_per_step": 0.27730894290406216,
+   "total_wear": 42.70557720722557,
+   "reward": 1206.636048589167,
+   "steps": 154,
+   "hit_target": true
+  },
+  {
+   "eps": 0.2,
+   "seed": 2002,
+   "mean_wear_per_step": 0.2640317001595015,
+   "total_wear": 40.39685012440373,
+   "reward": 1205.5995557101462,
+   "steps": 153,
+   "hit_target": true
+  },
+  {
+   "eps": 0.2,
+   "seed": 2003,
+   "mean_wear_per_step": 0.22965313829000378,
+   "total_wear": 35.82588957324059,
+   "reward": 1202.2327593480713,
+   "steps": 156,
+   "hit_target": true
+  },
+  {
+   "eps": 0.2,
+   "seed": 2004,
+   "mean_wear_per_step": 0.2851119200885374,
+   "total_wear": 44.76257145390038,
+   "reward": 1200.8007459004666,
+   "steps": 157,
+   "hit_target": true
+  },
+  {
+   "eps": 0.2,
+   "seed": 2005,
+   "mean_wear_per_step": 0.26995221901272454,
+   "total_wear": 40.7627850709214,
+   "reward": 1207.0907530236357,
+   "steps": 151,
+   "hit_target": true
+  },
+  {
+   "eps": 0.2,
+   "seed": 2006,
+   "mean_wear_per_step": 0.2772211232904653,
+   "total_wear": 42.96927411002212,
+   "reward": 1202.2660927530906,
+   "steps": 155,
+   "hit_target": true
+  },
+  {
+   "eps": 0.2,
+   "seed": 2007,
+   "mean_wear_per_step": 0.21968888400656866,
+   "total_wear": 33.832088137011574,
+   "reward": 1201.077640469682,
+   "steps": 154,
+   "hit_target": true
+  },
+  {
+   "eps": 0.2,
+   "seed": 2008,
+   "mean_wear_per_step": 0.284744381776834,
+   "total_wear": 44.98961232073977,
+   "reward": 1202.91826740072,
+   "steps": 158,
+   "hit_target": true
+  },
+  {
+   "eps": 0.2,
+   "seed": 2009,
+   "mean_wear_per_step": 0.27872781267030733,
+   "total_wear": 43.481538776567945,
+   "reward": 1206.3966839374918,
+   "steps": 156,
+   "hit_target": true
+  },
+  {
+   "eps": 0.2,
+   "seed": 2010,
+   "mean_wear_per_step": 0.2684833682680079,
+   "total_wear": 41.88340544980923,
+   "reward": 1204.824577238108,
+   "steps": 156,
+   "hit_target": true
+  },
+  {
+   "eps": 0.2,
+   "seed": 2011,
+   "mean_wear_per_step": 0.28107197189079636,
+   "total_wear": 44.12829958685503,
+   "reward": 1204.3393070193983,
+   "steps": 157,
+   "hit_target": true
+  },
+  {
+   "eps": 0.35,
+   "seed": 2000,
+   "mean_wear_per_step": 0.2622535761001984,
+   "total_wear": 44.05860078483333,
+   "reward": 1207.765958148475,
+   "steps": 168,
+   "hit_target": true
+  },
+  {
+   "eps": 0.35,
+   "seed": 2001,
+   "mean_wear_per_step": 0.2836103699945792,
+   "total_wear": 45.37765919913268,
+   "reward": 1207.4710834885188,
+   "steps": 160,
+   "hit_target": true
+  },
+  {
+   "eps": 0.35,
+   "seed": 2002,
+   "mean_wear_per_step": 0.2989390765251378,
+   "total_wear": 50.22176485622315,
+   "reward": 1206.0144231548734,
+   "steps": 168,
+   "hit_target": true
+  },
+  {
+   "eps": 0.35,
+   "seed": 2003,
+   "mean_wear_per_step": 0.29836945721995295,
+   "total_wear": 50.42443827017205,
+   "reward": 1204.4807879683408,
+   "steps": 169,
+   "hit_target": true
+  },
+  {
+   "eps": 0.35,
+   "seed": 2004,
+   "mean_wear_per_step": 0.29722664168674434,
+   "total_wear": 49.63684916168631,
+   "reward": 1202.718913480031,
+   "steps": 167,
+   "hit_target": true
+  },
+  {
+   "eps": 0.35,
+   "seed": 2005,
+   "mean_wear_per_step": 0.2792514764586768,
+   "total_wear": 43.56323032755358,
+   "reward": 1203.4919562761215,
+   "steps": 156,
+   "hit_target": true
+  },
+  {
+   "eps": 0.35,
+   "seed": 2006,
+   "mean_wear_per_step": 0.3104121317658235,
+   "total_wear": 53.70129879548746,
+   "reward": 1204.5205670961548,
+   "steps": 173,
+   "hit_target": true
+  },
+  {
+   "eps": 0.35,
+   "seed": 2007,
+   "mean_wear_per_step": 0.24577235787630342,
+   "total_wear": 40.30666669171376,
+   "reward": 1207.158684307916,
+   "steps": 164,
+   "hit_target": true
+  },
+  {
+   "eps": 0.35,
+   "seed": 2008,
+   "mean_wear_per_step": 0.2426640933111529,
+   "total_wear": 39.79691130302908,
+   "reward": 1204.1283400405018,
+   "steps": 164,
+   "hit_target": true
+  },
+  {
+   "eps": 0.35,
+   "seed": 2009,
+   "mean_wear_per_step": 0.26640144561401563,
+   "total_wear": 43.15703418947054,
+   "reward": 1200.4434122955558,
+   "steps": 162,
+   "hit_target": true
+  },
+  {
+   "eps": 0.35,
+   "seed": 2010,
+   "mean_wear_per_step": 0.2370142980145623,
+   "total_wear": 38.15930198034453,
+   "reward": 1207.2729094730296,
+   "steps": 161,
+   "hit_target": true
+  },
+  {
+   "eps": 0.35,
+   "seed": 2011,
+   "mean_wear_per_step": 0.264921084423522,
+   "total_wear": 43.447057845457614,
+   "reward": 1206.7177279464463,
+   "steps": 164,
+   "hit_target": true
+  },
+  {
+   "eps": 0.5,
+   "seed": 2000,
+   "mean_wear_per_step": 0.28360587279911825,
+   "total_wear": 50.198239485443935,
+   "reward": 1202.2122155630843,
+   "steps": 177,
+   "hit_target": true
+  },
+  {
+   "eps": 0.5,
+   "seed": 2001,
+   "mean_wear_per_step": 0.31657959221271126,
+   "total_wear": 55.40142863722447,
+   "reward": 1204.4104731458754,
+   "steps": 175,
+   "hit_target": true
+  },
+  {
+   "eps": 0.5,
+   "seed": 2002,
+   "mean_wear_per_step": 0.2885306027609106,
+   "total_wear": 49.91579427763753,
+   "reward": 1204.022022829022,
+   "steps": 173,
+   "hit_target": true
+  },
+  {
+   "eps": 0.5,
+   "seed": 2003,
+   "mean_wear_per_step": 0.31718201715659256,
+   "total_wear": 56.14121703671688,
+   "reward": 1207.2782344610655,
+   "steps": 177,
+   "hit_target": true
+  },
+  {
+   "eps": 0.5,
+   "seed": 2004,
+   "mean_wear_per_step": 0.29590898436283497,
+   "total_wear": 52.37589023222179,
+   "reward": 1205.3957333750773,
+   "steps": 177,
+   "hit_target": true
+  },
+  {
+   "eps": 0.5,
+   "seed": 2005,
+   "mean_wear_per_step": 0.3093497147123415,
+   "total_wear": 54.13620007465976,
+   "reward": 1200.9060909987081,
+   "steps": 175,
+   "hit_target": true
+  },
+  {
+   "eps": 0.5,
+   "seed": 2006,
+   "mean_wear_per_step": 0.33402275220931216,
+   "total_wear": 61.12616365430412,
+   "reward": 1200.7539505676307,
+   "steps": 183,
+   "hit_target": true
+  },
+  {
+   "eps": 0.5,
+   "seed": 2007,
+   "mean_wear_per_step": 0.29935610603072155,
+   "total_wear": 51.48925023728411,
+   "reward": 1201.045801559828,
+   "steps": 172,
+   "hit_target": true
+  },
+  {
+   "eps": 0.5,
+   "seed": 2008,
+   "mean_wear_per_step": 0.2802092472207788,
+   "total_wear": 48.7564090164155,
+   "reward": 1200.9705137716724,
+   "steps": 174,
+   "hit_target": true
+  },
+  {
+   "eps": 0.5,
+   "seed": 2009,
+   "mean_wear_per_step": 0.30087891104082054,
+   "total_wear": 51.14941487693949,
+   "reward": 1200.4768805542021,
+   "steps": 170,
+   "hit_target": true
+  },
+  {
+   "eps": 0.5,
+   "seed": 2010,
+   "mean_wear_per_step": 0.2597133007640106,
+   "total_wear": 44.67068773140983,
+   "reward": 1202.7010609530666,
+   "steps": 172,
+   "hit_target": true
+  },
+  {
+   "eps": 0.5,
+   "seed": 2011,
+   "mean_wear_per_step": 0.2975978884347311,
+   "total_wear": 53.86521780668633,
+   "reward": 1200.0108401748657,
+   "steps": 181,
+   "hit_target": true
+  },
+  {
+   "eps": 0.75,
+   "seed": 2000,
+   "mean_wear_per_step": 0.34302481091386733,
+   "total_wear": 67.91891256094573,
+   "reward": 1200.5564105500644,
+   "steps": 198,
+   "hit_target": true
+  },
+  {
+   "eps": 0.75,
+   "seed": 2001,
+   "mean_wear_per_step": 0.336320250732542,
+   "total_wear": 67.93669064797349,
+   "reward": 1202.8270526142678,
+   "steps": 202,
+   "hit_target": true
+  },
+  {
+   "eps": 0.75,
+   "seed": 2002,
+   "mean_wear_per_step": 0.309323729447386,
+   "total_wear": 58.462184865555955,
+   "reward": 1206.4308165711461,
+   "steps": 189,
+   "hit_target": true
+  },
+  {
+   "eps": 0.75,
+   "seed": 2003,
+   "mean_wear_per_step": 0.3281666360941607,
+   "total_wear": 62.35166085789053,
+   "reward": 1200.999091954231,
+   "steps": 190,
+   "hit_target": true
+  },
+  {
+   "eps": 0.75,
+   "seed": 2004,
+   "mean_wear_per_step": 0.3480453032020325,
+   "total_wear": 72.04537776282072,
+   "reward": 1203.871043742521,
+   "steps": 207,
+   "hit_target": true
+  },
+  {
+   "eps": 0.75,
+   "seed": 2005,
+   "mean_wear_per_step": 0.3313703281441739,
+   "total_wear": 65.9426953006906,
+   "reward": 1201.266270170887,
+   "steps": 199,
+   "hit_target": true
+  },
+  {
+   "eps": 0.75,
+   "seed": 2006,
+   "mean_wear_per_step": 0.3537396816126678,
+   "total_wear": 72.16289504898423,
+   "reward": 1204.1434081471145,
+   "steps": 204,
+   "hit_target": true
+  },
+  {
+   "eps": 0.75,
+   "seed": 2007,
+   "mean_wear_per_step": 0.33095209792254465,
+   "total_wear": 63.873754899051114,
+   "reward": 1200.045574503835,
+   "steps": 193,
+   "hit_target": true
+  },
+  {
+   "eps": 0.75,
+   "seed": 2008,
+   "mean_wear_per_step": 0.3342682135813175,
+   "total_wear": 68.19071557058876,
+   "reward": 1201.1010218501401,
+   "steps": 204,
+   "hit_target": true
+  },
+  {
+   "eps": 0.75,
+   "seed": 2009,
+   "mean_wear_per_step": 0.34284412134508413,
+   "total_wear": 68.56882426901683,
+   "reward": 1201.2815154831546,
+   "steps": 200,
+   "hit_target": true
+  },
+  {
+   "eps": 0.75,
+   "seed": 2010,
+   "mean_wear_per_step": 0.3475011323480183,
+   "total_wear": 68.80522420490763,
+   "reward": 1202.2122486980365,
+   "steps": 198,
+   "hit_target": true
+  },
+  {
+   "eps": 0.75,
+   "seed": 2011,
+   "mean_wear_per_step": 0.34631334963879773,
+   "total_wear": 68.57004322848195,
+   "reward": 1203.8674464090607,
+   "steps": 198,
+   "hit_target": true
+  },
+  {
+   "eps": 1.0,
+   "seed": 2000,
+   "mean_wear_per_step": 0.36728410516424176,
+   "total_wear": 81.16978724129743,
+   "reward": 1201.083148085561,
+   "steps": 221,
+   "hit_target": true
+  },
+  {
+   "eps": 1.0,
+   "seed": 2001,
+   "mean_wear_per_step": 0.3626152630055006,
+   "total_wear": 79.41274259820463,
+   "reward": 1208.3632666307992,
+   "steps": 219,
+   "hit_target": true
+  },
+  {
+   "eps": 1.0,
+   "seed": 2002,
+   "mean_wear_per_step": 0.3532467011356033,
+   "total_wear": 77.00778084756152,
+   "reward": 1204.1615670410079,
+   "steps": 218,
+   "hit_target": true
+  },
+  {
+   "eps": 1.0,
+   "seed": 2003,
+   "mean_wear_per_step": 0.3850495060440841,
+   "total_wear": 90.10158441431568,
+   "reward": 1206.9189522306683,
+   "steps": 234,
+   "hit_target": true
+  },
+  {
+   "eps": 1.0,
+   "seed": 2004,
+   "mean_wear_per_step": 0.38659721276406084,
+   "total_wear": 92.01013663784649,
+   "reward": 1202.0012275698723,
+   "steps": 238,
+   "hit_target": true
+  },
+  {
+   "eps": 1.0,
+   "seed": 2005,
+   "mean_wear_per_step": 0.36853881796100046,
+   "total_wear": 81.8156175873421,
+   "reward": 1205.6616513167626,
+   "steps": 222,
+   "hit_target": true
+  },
+  {
+   "eps": 1.0,
+   "seed": 2006,
+   "mean_wear_per_step": 0.3784576050865763,
+   "total_wear": 87.04524916991254,
+   "reward": 1200.925404637342,
+   "steps": 230,
+   "hit_target": true
+  },
+  {
+   "eps": 1.0,
+   "seed": 2007,
+   "mean_wear_per_step": 0.34903314518562234,
+   "total_wear": 74.69309306972318,
+   "reward": 1200.8283049607226,
+   "steps": 214,
+   "hit_target": true
+  },
+  {
+   "eps": 1.0,
+   "seed": 2008,
+   "mean_wear_per_step": 0.39238252282335867,
+   "total_wear": 92.99465790913601,
+   "reward": 1202.5742041942317,
+   "steps": 237,
+   "hit_target": true
+  },
+  {
+   "eps": 1.0,
+   "seed": 2009,
+   "mean_wear_per_step": 0.36810997071047025,
+   "total_wear": 80.98419355630345,
+   "reward": 1205.277937043248,
+   "steps": 220,
+   "hit_target": true
+  },
+  {
+   "eps": 1.0,
+   "seed": 2010,
+   "mean_wear_per_step": 0.3391128696294139,
+   "total_wear": 70.19636401328867,
+   "reward": 1201.9700107413785,
+   "steps": 207,
+   "hit_target": true
+  },
+  {
+   "eps": 1.0,
+   "seed": 2011,
+   "mean_wear_per_step": 0.3937537446741876,
+   "total_wear": 91.35086876441153,
+   "reward": 1200.8655771554365,
+   "steps": 232,
+   "hit_target": true
+  }
+ ],
+ "verdict": "SUPPORTED, robust across 30 independent task streams (median 1.71x, 2/30 backwards)",
+ "spearman_steps": {
+  "rho": 0.9905752682528429,
+  "p": 5.766130529616206e-83
+ },
+ "spearman_wear": {
+  "rho": 0.9307337704883439,
+  "p": 7.553794468670985e-43
+ },
+ "multi_seed_ratios": [
+  2.642200220824755,
+  1.3266873305129425,
+  1.8821782837199046,
+  1.641341644362583,
+  1.07468967594586,
+  1.5017961263443098,
+  2.3214313957547055,
+  1.3969991819556908,
+  3.1624635324896753,
+  1.8774201366165166,
+  1.621078249027598,
+  3.1463754104841697,
+  1.3559474139906036,
+  1.6796708906291076,
+  1.7078709716846479,
+  1.4391538945930933,
+  3.2952038696601624,
+  0.9366432623117696,
+  0.828464565168777,
+  2.671108714479892,
+  2.6170712462706835,
+  1.7240904711718779,
+  3.0314909914126775,
+  1.7215012244681984,
+  1.6007300949083691,
+  1.9093528074027377,
+  2.1627996756066157,
+  1.9014660931646805,
+  1.5613658706415572,
+  1.1000805102568263
+ ],
+ "multi_seed_backwards": 2,
+ "multi_seed_n": 30
+}
