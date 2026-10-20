@@ -1,8 +1,7 @@
 # Exploration cost in onboard RL schedulers: simulation code
 
 Code and results for the preprint *Exploration Cost: The Exploration Coefficient in Onboard
-Reinforcement-Learning Schedulers Is an Independent Driver of Battery Aging* (J. Goodman, 2026;
-link added once posted).
+Reinforcement-Learning Schedulers Is an Independent Driver of Battery Aging* (J. Goodman, 2026; engrXiv, doi:[10.31224/8438](https://doi.org/10.31224/8438)).
 
 Question: at **fixed delivered mission value**, does an epsilon-greedy scheduler's exploration
 rate still cost physical wear? Each arm runs until it reaches the same cumulative reward, then
@@ -32,6 +31,11 @@ Runs are deterministic; the committed JSON files are byte-identical to a fresh r
 | 1, Wohler | 1.47x | 0/30 | 9.3e-10 |
 | 2, log-linear | 1.58x | 0/30 | 9.3e-10 |
 | 3, Archard | 1.71x (range 0.83-3.30x) | 2/30 | 9.3e-9 |
+
+
+## Fresh-stream re-test (October 2026)
+
+A pre-registered re-run of the two battery models on 30 new task streams with independent scheduler seeds agrees with the table above (medians 1.52x and 1.58x; 1 and 0 of 30 streams reversed). Code, stored output and the Zenodo pre-registration are in [`fresh_stream_retest/`](fresh_stream_retest/).
 
 ## Initialisation sensitivity: read this before reusing the comparison
 
