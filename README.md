@@ -22,7 +22,7 @@ python run_assay_actuator_wear_generalization.py   # writes actuator_wear_result
 python run_assay.py --no-warmstart       # sensitivity run: writes *_no_warmstart.json
 ```
 
-Runs are seeded and deterministic on a given software stack. The committed JSON files were produced with numpy 2.4.6, scipy 1.17.1 and Python 3.11, where a fresh run of `run_assay.py` reproduces its committed file byte for byte. On a different stack (a clean-room re-run on Kaggle's current Python and library versions) the three top-level scripts ran but wrote files that were not byte-identical to the committed ones; the headline ratios from `fresh_stream_retest` matched exactly there. Compare numerical values rather than file bytes if your library versions differ.
+Runs are seeded and deterministic on a given software stack. With numpy 2.4.6, scipy 1.17.1 and Python 3.11 a fresh run of `run_assay.py` reproduces its committed file byte for byte (checked for `run_assay.py` only). On a different stack (a clean-room re-run on Kaggle's current Python and library versions) the three top-level scripts ran but wrote files that were not byte-identical to the committed ones; the headline ratios from `fresh_stream_retest` matched exactly there. Compare numerical values rather than file bytes if your library versions differ.
 
 ## Headline results (30 independent draws per model)
 
